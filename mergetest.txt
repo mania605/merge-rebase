@@ -4,6 +4,5 @@ master
 sub
   master2
   master1
-  sub3
   sub2
   sub1
